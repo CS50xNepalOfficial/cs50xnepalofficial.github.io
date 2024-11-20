@@ -2,54 +2,67 @@ import { IFAQ } from '@/app/faqs/faq_list_type';
 
 export const FAQList: IFAQ[] = [
 	{
-		question: 'When and where is CS50x Nepal starting?',
+		question: 'What is CS50x?',
 		answer:
-			'CS50x Nepal is starting this soon in 2024, at Library building in IOE Purwanchal Campus.',
+			"CS50x is Harvard University's Introduction to Computer Science course, available online for free. It's a fantastic way to explore the world of computer science and programming. CS50x is a licensed course under CC BY-NC-SA 4.0 Legal Code.",
 	},
 	{
-		question: 'How many students can join CS50x Nepal?',
+		question: 'What is CS50x Nepal?',
 		answer:
-			'Initially, we are planning to enroll 30 students. However, the student count can change based on interest.',
+			'Like any other country/city adaptation, CS50x Nepal is the very first Nepal adaptation of the course at IOE Purwanchal Campus.',
 	},
 	{
-		question: 'Is CS50x for beginners, or do I need prior coding experience?',
+		question: 'What is CS50 AI?',
 		answer:
-			'CS50x is perfect for beginners! No prior coding experience is needed.',
+			'CS50 AI is the local Adaptation of CS50 course in Nepal. It is a course that explores the concepts of Artificial Intelligence and Machine Learning.',
 	},
 	{
-		question: 'How do I enroll in CS50x Nepal?',
-		answer:
-			'You can enroll in CS50x online for free. However, for CS50x Nepal, you need to apply to get into the event.',
+		question: 'Is CS50 AI an in-person event or an online event?',
+		answer: 'CS50 AI is an in-person event at IOE Purwanchal Campus, Dharan.',
 	},
 	{
-		question: 'What programming languages are taught in CS50x Nepal?',
+		question: 'Can I join CS50 AI?',
 		answer:
-			'CS50x Nepal follows the same course structure as of CS50x from 2022/23.',
+			'If you were CS50x student or enrolled in any computer science course (except 1st year ) then you can apply to join. Registration forms are opening soon.',
 	},
 	{
-		question: 'How much time should I dedicate to CS50x Nepal each week?',
+		question: 'Is CS50x Nepal a paid event? Is there any ticket or fee?',
+		answer:
+			"No, CS50 AI is a free course for students. There's no ticket cost associated with CS50 AI.",
+	},
+	{
+		question: 'When and where is CS50 AI starting?',
+		answer:
+			'CS50x Nepal is starting soon this year, at [not disclosed yet] location inside IOE Purwanchal Campus.',
+	},
+	{
+		question: 'How many students can join CS50 AI?',
+		answer:
+			'Initially, we are planning to enroll 60 students. However, the student count can change based on interest.',
+	},
+	{
+		question: 'How do I enroll in CS50 AI ?',
+		answer:
+			'You can enroll in CS50 AI online for free. However, for CS50 AI Nepal, you need to apply to get into the event.',
+	},
+	{
+		question: 'Is CS50 AI for beginners, or do I need prior coding experience?',
+		answer:
+			'CS50 AI is not for absolute beginners, it requires basic programming experience in Python and familiarity with foundational computer science concepts.',
+	},
+	{
+		question: 'How much time should I dedicate to CS50 AI each week?',
 		answer:
 			'We recommend about 12–18 hours per week, but you can adjust your pace to fit your schedule.',
 	},
 	{
-		question: 'Are there assignments and exams in CS50x Nepal?',
+		question: 'Are there assignments and exams in CS50 AI?',
 		answer:
 			"Yes, you'll have problem sets and quizzes to test your knowledge. They're a great way to learn!",
 	},
 	{
-		question:
-			'Can I get a certificate from Harvard for completing CS50x Nepal?',
+		question: 'Can I get a certificate from Harvard for completing CS50 AI?',
 		answer:
 			'You will only get the free certificate offered by CS50 on completion of the course.',
-	},
-	{
-		question: 'What kind of computer or software do I need for CS50x?',
-		answer:
-			'You would need a decent laptop. In case of software, you can explore the online setup or some offline Integrated Development Environment (IDE).',
-	},
-	{
-		question: 'Can I take CS50x Nepal at my own pace?',
-		answer:
-			'Absolutely! But not keeping up to our scheduled timeline might let you not graduate the course together with others.',
 	},
 ];
