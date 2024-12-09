@@ -11,7 +11,7 @@ export default function Page() {
                         Welcome to the <span className='text-red-500'>CS50xNepal</span> AI Event!
                     </h1>
                     <p className="mt-4 text-lg text-center">
-                        Embark on a transformative six-week journey into the world of Artificial Intelligence with <span className='text-red-600'>CS50xNepal</span>. From beginners to AI enthusiasts, there's something for everyone!
+                        Embark on a transformative six-week journey into the world of Artificial Intelligence with <span className='text-red-600'>CS50xNepal</span>. From beginners to AI enthusiasts, there&apos;s something for everyone!
                     </p>
                 </div>
                 {/* Event Overview Section */}
