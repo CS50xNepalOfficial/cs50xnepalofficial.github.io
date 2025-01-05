@@ -53,39 +53,36 @@ export default function Page() {
 					</h2>
 					<ul className="text-gray-700 text-lg space-y-4">
 						<li>
-							📖 <strong>Week 0: Search</strong>- Explore the foundations of AI
-							problem-solving, including search algorithms like Depth-First
-							Search, A* Search, Minimax, and Alpha-Beta Pruning.
+							📖{' '}
+							<strong>Week 1: Python and Database Foundations and Setup</strong>{' '}
+							- Explore the basics of artificial intelligence, including Python
+							for Data Science, Object-Oriented Programming (overview), advanced
+							Python concepts, SQL, and database querying with practical
+							applications.
 						</li>
 						<li>
-							📚 <strong>Week 1: Knowledge</strong>- Dive into knowledge
-							representation and reasoning using propositional logic,
-							first-order logic, and inference methods.
+							📚 <strong>Week 2: Mathematics and Statistics</strong> - Build a
+							strong foundation in linear algebra, vectors, matrices, calculus,
+							set theory, logic, graph theory, and statistics using Python,
+							including probability distributions and practical implementations.
 						</li>
 						<li>
-							🔍 <strong>Week 2: Uncertainty</strong>- Learn to manage
-							uncertainty in AI through probability, Bayesian networks, Markov
-							models, and sampling techniques.
+							🔍 <strong>Week 3: Data Preprocessing and Exploration</strong> -
+							Master skills in web scraping, advanced data preprocessing
+							techniques (handling missing values, feature engineering,
+							normalization), and data visualization with tools like Matplotlib,
+							Seaborn, Tableau, and Power BI.
 						</li>
 						<li>
-							📈 <strong>Week 3: Optimization</strong>- Master optimization
-							techniques like hill climbing, simulated annealing, constraint
-							satisfaction, and linear programming.
+							🤖 <strong>Week 4: Machine Learning</strong> - Dive into core ML
+							concepts with supervised learning techniques like regression
+							(linear, polynomial) and unsupervised methods such as clustering
+							(K-Means, DBSCAN) and PCA for dimensionality reduction.
 						</li>
 						<li>
-							🤖 <strong>Week 4: Learning</strong>- Understand supervised and
-							unsupervised learning, reinforcement learning, regression,
-							overfitting, regularization, and clustering methods.
-						</li>
-						<li>
-							🧠 <strong>Week 5: Neural Networks</strong>- Explore artificial
-							neural networks, activation functions, gradient descent,
-							convolutional and recurrent neural networks.
-						</li>
-						<li>
-							📝 <strong>Week 6: Language</strong>- Delve into natural language
-							processing topics like syntax, semantics, transformers, and word
-							embeddings with Word2Vec and attention mechanisms.
+							📝 <strong>Week 5: Practical Applications</strong> - Apply AI
+							knowledge to real-world scenarios with end-to-end machine learning
+							projects and team-based supervised implementations.
 						</li>
 					</ul>
 					{/* add button to syllabus section */}

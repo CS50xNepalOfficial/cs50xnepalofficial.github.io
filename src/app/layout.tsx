@@ -4,7 +4,6 @@ import { Poppins } from 'next/font/google';
 import Navbar from '@/components/Navbar';
 import PreviousEdition from '@/components/PreviousEdition';
 import Footer from '../app/footer/page';
-import RegistrationHeader from './event/registration/RegistrationHeader';
 
 const poppins = Poppins({
 	weight: '400',
@@ -35,7 +34,6 @@ export default function RootLayout({
 			<body className={`bg-offWhite ${poppins.className}`}>
 				<Navbar />
 				{/* <PreviousEdition /> */}
-				<RegistrationHeader />
 				{children}
 				<Footer />
 			</body>
