@@ -18,12 +18,6 @@ export const instructorList: IInstructorCard[] = [
 		avatar: Pukar,
 	},
 	{
-		title: 'Suraj Bhattarai',
-		description:
-			'Curious and insightful, Mr Bhattarai is an awesome tech community leader, mentor & instructor and equally a cloud enthusiast.',
-		avatar: Suraj,
-	},
-	{
 		title: 'Mahesh Chaudhary',
 		description:
 			'Beta MLSA and a tech expert, Mr. Chaudhary is a final-year student at IOE Purwanchal Campus and the President at EXCESS. With strong leadership and vision, he guides his team through tech intuition, empowering them to embrace change and make bold decisions. ',
